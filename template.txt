@@ -58,8 +58,7 @@
  
 Hi, my name is {your_name}, and I am interested in pursuing the {position} job at {company_name}.
 
-ADD ALL OF THE AMAZING THINGS YOU'VE DONE HERE.
-
+Here are all of the amazing things I've done.
 
 I am happy to discuss my qualifications with you and learn more about the {position} 
 position at your earliest convenience. I can be reached at {your_phone_number} or by email 
