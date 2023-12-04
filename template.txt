@@ -56,7 +56,7 @@
 
 \opening{{To whom it may concern:}} 
  
-Hi, my name is {your_name}, and I am interested in pursuing the {position} job at {company_name}.
+My name is {your_name}, and I am interested in pursuing the {position} job at {company_name}.
 
 Here are all of the amazing things I've done.
 
